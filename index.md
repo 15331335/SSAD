@@ -9,4 +9,4 @@
 - Vision（项目愿景）
 - Product backlog（产品特性）
 - meeting records
-    - Inception meeting (2018/4/20)
+    - Inception meeting (2018-4-20)
