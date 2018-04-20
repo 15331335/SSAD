@@ -1,4 +1,4 @@
-# Inception meeting
+# Inception Meeting
 
 
 
