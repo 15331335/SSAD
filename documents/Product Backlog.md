@@ -1,3 +1,3 @@
 # Product Backlog
 
-[back](./)
+[back](../)
