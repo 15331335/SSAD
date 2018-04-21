@@ -7,12 +7,12 @@ layout: default
 # index
 
 - [About（项目规划）](./documents/About.html)
-- [Team profile（团队组建）](./documents/Team+Profile.html)
+- [Team profile（团队组建）](./documents/Team%20Profile.html)
 - [Investigation（项目前期调研）](./documents/Investigation.html)
 - [Vision（项目愿景）](./documents/Vision.html)
-- [Product backlog（产品特性）](./documents/Product+Backlog.html)
+- [Product backlog（产品特性）](./documents/Product%20Backlog.html)
 - meeting records
-    - [Inception meeting (2018-4-20)](./documents/meeting+records/Inception+Meeting+(2018-4-20).html)
+    - [Inception meeting (2018-4-20)](./documents/meeting%20records/Inception%20Meeting%20(2018-4-20).html)
 
 
 [Link to another page](./another-page.html).
