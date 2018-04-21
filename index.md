@@ -16,6 +16,7 @@ layout: default
     - [Learning meeting (2018-4-21)](./documents/meeting%20records/Learning%20Meeting%20(2018-4-21).html)
 - tech/work reports
     - [Use case modeling](./practice/Use%20Case%20Modeling.html)
+    - [Modeling study](./practice/Modeling%20Study.html)
 
 
 [Link to Theme page](./another-page.html).
