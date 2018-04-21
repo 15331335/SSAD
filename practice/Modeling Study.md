@@ -4,8 +4,13 @@
 
 ## 用例建模
 
-![1]({{site.url}}/pratice/images/Reserve%20Hotel/1.png)
 ![1](./images/Reserve%20Hotel/1.png)
+
+![2](./images/Reserve%20Hotel/2.png)
+
+![3](./images/Reserve%20Hotel/3.png)
+
+![4](./images/Reserve%20Hotel/4.png)
 
 ## 业务建模
 
