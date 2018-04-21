@@ -12,8 +12,8 @@ layout: default
 - [Vision（项目愿景）](./documents/Vision.html)
 - [Product backlog（产品特性）](./documents/Product%20Backlog.html)
 - meeting records
-    - [Inception meeting (2018-4-20)](./documents/meeting%20records/Inception%20meeting%20(2018-4-20).html)
-    - [Learning meeting (2018-4-21)](./documents/meeting%20records/Learning%20meeting%20(2018-4-21).html)
+    - [Inception meeting (2018-4-20)](./documents/meeting%20records/Inception%20Meeting%20(2018-4-20).html)
+    - [Learning meeting (2018-4-21)](./documents/meeting%20records/Learning%20Meeting%20(2018-4-21).html)
 
 
 [Link to another page](./another-page.html).
