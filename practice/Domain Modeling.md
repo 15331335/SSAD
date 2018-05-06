@@ -58,8 +58,3 @@
 ![lesson7_2](./images/Modeling/lesson7_2.png)
 
 
-
-## 状态建模
-
-
-
