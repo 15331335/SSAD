@@ -16,15 +16,17 @@ layout: default
 - [Production specifications and guidelines（生产规范与指南）](./documents/Production%20Specifications%20and%20Guidelines.html)
 - meeting records
     - [Inception meeting (2018-4-20)](./documents/meeting%20records/Inception%20Meeting%20(2018-4-20).html)
-    - [Learning meeting (2018-4-21)](./documents/meeting%20records/Learning%20Meeting%20(2018-4-21).html)
+    - [Modeling meeting (2018-4-21)](./documents/meeting%20records/Modeling%20Meeting%20(2018-4-21).html)
     - [Modeling meeting (2018-4-25)](./documents/meeting%20records/Modeling%20Meeting%20(2018-4-25).html)
     - [Modeling meeting (2018-5-5)](./documents/meeting%20records/Modeling%20Meeting%20(2018-5-5).html)
+    - [Modeling meeting (2018-5-12)](./documents/meeting%20records/Modeling%20Meeting%20(2018-5-12).html)
 - tech/work reports
     - [Use case modeling](./practice/Use%20Case%20Modeling.html)
     - [Modeling study](./practice/Modeling%20Study.html)
     - [Domain modeling](./practice/Domain%20Modeling.html)
     - [State modeling](./practice/State%20Modeling.html)
     - [Domain and state model study](./practice/Domain%20and%20State%20Model%20Study.html)
+    - [Function modeling](./practice/Function%20Modeling.html)
 
 
 [Link to Theme page](./another-page.html).

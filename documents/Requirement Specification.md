@@ -8,4 +8,6 @@
 
 ## State Model（状态模型）
 
+## System Sequence Diagram（功能模型）
+
 [back](../)
