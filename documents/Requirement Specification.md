@@ -10,4 +10,6 @@
 
 ## System Sequence Diagram（功能模型）
 
+## Supplementary Requirements（补充需求）
+
 [back](../)

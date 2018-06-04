@@ -20,6 +20,7 @@ layout: default
     - [Modeling meeting (2018-4-25)](./documents/meeting%20records/Modeling%20Meeting%20(2018-4-25).html)
     - [Modeling meeting (2018-5-5)](./documents/meeting%20records/Modeling%20Meeting%20(2018-5-5).html)
     - [Modeling meeting (2018-5-12)](./documents/meeting%20records/Modeling%20Meeting%20(2018-5-12).html)
+    - [Modeling meeting (2018-6-3)](./documents/meeting%20records/Modeling%20Meeting%20(2018-6-3).html)
 - tech/work reports
     - [Use case modeling](./practice/Use%20Case%20Modeling.html)
     - [Modeling study](./practice/Modeling%20Study.html)
@@ -27,6 +28,7 @@ layout: default
     - [State modeling](./practice/State%20Modeling.html)
     - [Domain and state model study](./practice/Domain%20and%20State%20Model%20Study.html)
     - [Function modeling](./practice/Function%20Modeling.html)
+    - [Architecture modeling](./practice/Architecture%20Modeling.html)
 
 
 [Link to Theme page](./another-page.html).
