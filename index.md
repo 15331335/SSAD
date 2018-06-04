@@ -29,6 +29,7 @@ layout: default
     - [Domain and state model study](./practice/Domain%20and%20State%20Model%20Study.html)
     - [Function modeling](./practice/Function%20Modeling.html)
     - [Architecture modeling](./practice/Architecture%20Modeling.html)
+    - [Architecture model study](./practice/Architecture%20Model%20Study.html)
 
 
 [Link to Theme page](./another-page.html).
