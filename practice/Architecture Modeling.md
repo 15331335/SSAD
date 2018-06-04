@@ -85,9 +85,80 @@
 
 
 
+**架构需求的获取**
+
+- 利益相关人及其关注点分析
+
+- 编写架构需求 **Supplementary Sepcification**
+
+  架构需求按 `FURPS+` 模型组织，重点是 `URPS+`。软件架构又称为非功能驱动的设计，又称 `FDD` (Feature-driven development)。
 
 
 
+**逻辑架构设计**
+
+三层模型（表示层、业务层、持久化层）
+
+1. **层与分区准则**：
+   - 表示层：一般按用户角色划分分区，以点餐系统为例：用户点餐子系统、餐厅管理子系统、餐厅厨房管理子系统、运维服务子系统等
+   - 业务层: 一般按业务功能服务划分分区，以点餐系统为例：用户管理模块、菜品管理模块、订单管理模块、配餐管理模块、餐厅服务行为管理、餐厅管理等
+   - 持久化层：按核心交易实体管理（资源管理），以点餐系统为例：用户、菜品、订单等等的 CRUD
+2. 逻辑设计的好处
+3. 包的命名规范
+4. 实际应用包的组织
 
 
+
+**物理视图设计**
+
+- 部署图的元素
+- 案例研究
+
+
+
+### Document
+
+参考教材
+
+
+
+##云时代的软件架构
+
+**云应用程序体系架构的作用**
+
+[Azure 应用程序体系结构指南](https://docs.microsoft.com/zh-cn/azure/architecture/guide/)
+
+通过该文档，你应该了解：
+
+- 架构风格的核心作用是什么？
+- 云服务架构关注了哪些问题？
+- 云服务架构的读者（客户）是谁？
+- 架构设计涉及的内容有哪些？
+
+**云服务的两种典型架构风格**
+
+[微服务体系结构样式](https://docs.microsoft.com/zh-cn/azure/architecture/guide/architecture-styles/microservices)
+
+[CQRS 体系结构样式](https://docs.microsoft.com/zh-cn/azure/architecture/guide/architecture-styles/cqrs)
+
+通过上述文档，你应该了解：
+
+- 微服务架构的使用场景？
+- 不同风格不是互斥的，而是相容的。例如：在微服务中使用读写分离是解决高并发，如100万以上用户的基本手段
+
+**CQRS 与 事件溯源**
+
+[命令和查询责任分离 (CQRS) 模式](https://docs.microsoft.com/zh-cn/azure/architecture/patterns/cqrs)
+
+[事件溯源模式](https://docs.microsoft.com/zh-cn/azure/architecture/patterns/event-sourcing)
+
+[什么是 Flux 架构？](https://juejin.im/entry/577f06e62e958a0054af5a2a)
+
+通过上述文档，你应该了解：
+
+- 事件溯源 与 CQRS 是一对常见的组合
+- Flux 架构设计者如何思考设计模式改进 MVC 状态管理
+- 架构风格与设计模式的区别？
+
+参考阅读：Martin Fowler [CQRS](https://martinfowler.com/bliki/CQRS.html)
 
