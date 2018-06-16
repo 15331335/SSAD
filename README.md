@@ -1,11 +1,3 @@
-# dev-sys
+# Skeleton
 
-> 这是基于系统分析与设计课程的模拟项目。
-
-
-
-- **软件工程的定义**
-- **软件生命周期**
-- **软件团队管理**
-- **软件开发模型**
-
+> A document skeleton of software development.
