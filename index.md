@@ -33,6 +33,7 @@ layout: default
     - [Architecture model study](./practice/Architecture%20Model%20Study.html)
     - [Detailed design](./practice/Detailed%20Design.html)
     - [Detailed design study](./practice/Detailed%20Design%20Study.html)
+    - [temp report](./practice/temp%20report.html)
 
 
 [Link to Theme page](./another-page.html).
